@@ -1,5 +1,5 @@
-# PKU-courses(24 Fall)
-## 内含课程：  
+# PKU-courses
+## 24 Fall：  
 
 肿瘤免疫学  
 高级医学遗传学  
